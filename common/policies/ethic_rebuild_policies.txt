@@ -4383,7 +4383,7 @@ bureaucracy = {
 
 		modifier = {
 			country_base_influence_produces_add = 0.5
-			ruler_skill_levels = 1
+			ruler_skill_add = 1
 			empire_size_penalty_mult = 0.25
 			pop_ethic_egalitarian_attraction_mult = -0.2
 		}
